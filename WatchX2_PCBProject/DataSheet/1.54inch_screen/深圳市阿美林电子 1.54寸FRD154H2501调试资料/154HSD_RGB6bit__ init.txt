@@ -1,0 +1,105 @@
+//ST7789H2
+
+
+RST=1;  
+Delayms(1);
+	
+RST=0;
+Delayms(10);
+
+RST=1;
+Delayms(120);
+
+
+///**********************************
+SPI_WriteComm(0xB0);			
+SPI_WriteData(0x11); 			
+SPI_WriteData(0xc4); 
+
+SPI_WriteComm(0xB1);			
+SPI_WriteData(0xc0); //c0			
+
+SPI_WriteComm(0x3A);
+SPI_WriteData(0x66); 
+
+SPI_WriteComm(0xB2);			
+SPI_WriteData(0x0C); //porch setting			
+SPI_WriteData(0x0C); 			
+SPI_WriteData(0x00); 
+SPI_WriteData(0x33); 
+SPI_WriteData(0x33); 
+	
+SPI_WriteComm(0xB7);			
+SPI_WriteData(0x64); //VGH&VGL,15V&-10V
+SPI_WriteComm(0xBB);			
+SPI_WriteData(0x28); //VCOM
+												  	
+SPI_WriteComm(0xC2);			
+SPI_WriteData(0x01);
+
+SPI_WriteComm(0xC3);			
+SPI_WriteData(0x20); //GVDD,5.1V  //1f
+													  
+SPI_WriteComm(0xC4);			
+SPI_WriteData(0x20); //VDV,0V
+SPI_WriteComm(0xD0);			
+SPI_WriteData(0xA4); 
+SPI_WriteData(0xA2); //AVDD&AVCL,6.8v&-4.8v
+													  
+SPI_WriteComm(0xD2);			
+SPI_WriteData(0x4C); 													  
+
+SPI_WriteComm(0xE8);			
+SPI_WriteData(0x83); //Booster CLK Select
+					 
+SPI_WriteComm(0xE9);			
+SPI_WriteData(0x09); //EQ
+SPI_WriteData(0x09);						
+SPI_WriteData(0x08);
+SPI_WriteComm(0x36);			
+SPI_WriteData(0x00); //ACCESS
+SPI_WriteComm(0x35);			
+SPI_WriteData(0x00); //TE
+
+																	
+SPI_WriteComm(0xC6);			
+SPI_WriteData(0xEF); //0x09orig [DB7-5] 0forDotInv,1forColumnInv; 
+		                                            	    
+SPI_WriteComm(0xE0);			
+SPI_WriteData(0xD0); //V0[7-4] & V63[3-0]						
+SPI_WriteData(0x0B); //V62[5-0]						
+SPI_WriteData(0x11); //V61[5-0]					
+SPI_WriteData(0x0B); //V59[4-0]					
+SPI_WriteData(0x0A); //V57[4-0]					
+SPI_WriteData(0x26); //J1[5-4] & V50[3-0]						
+SPI_WriteData(0x36); //V43[6-0]					
+SPI_WriteData(0x44); //V27[6-4] & V36[2-0]					
+SPI_WriteData(0x4B); //V20[6-0]					
+SPI_WriteData(0x38); //J0[5-4] & V13[3-0]				
+SPI_WriteData(0x14); //V6[4-0]						
+SPI_WriteData(0x14); //V4[4-0]						
+SPI_WriteData(0x2A); //V2[5-0]						
+SPI_WriteData(0x30); //V1[5-0]
+
+SPI_WriteComm(0xE1);			        
+SPI_WriteData(0xD0); //V0[7-4] & V63[3-0]						
+SPI_WriteData(0x0B); //V62[5-0]					
+SPI_WriteData(0x11); //V61[5-0]						
+SPI_WriteData(0x0B); //V59[4-0]					
+SPI_WriteData(0x0A); //V57[4-0]						
+SPI_WriteData(0x26); //J1[5-4] & V50[3-0]					
+SPI_WriteData(0x35); //V43[6-0]						
+SPI_WriteData(0x43); //V27[6-4] & V36[2-0]						
+SPI_WriteData(0x4A); //V20[6-0]						
+SPI_WriteData(0x38); //J0[5-4] & V13[3-0]					
+SPI_WriteData(0x14); //V6[4-0]						
+SPI_WriteData(0x14); //V4[4-0]						
+SPI_WriteData(0x2A); //V2[5-0]				
+SPI_WriteData(0x30); //V1[5-0]
+ 	   			
+SPI_WriteComm(0x21);	 
+		
+SPI_WriteComm(0x11);		
+Delay(120);
+SPI_WriteComm(0x29);
+

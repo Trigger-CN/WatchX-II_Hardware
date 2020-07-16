@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=1.8V Pin=R4-2
+Removed Pin From Net: NetName=1.8V Pin=R28-2
+Change Component Designator: OldDesignator=1V8 NewDesignator=P17
+Change Component Designator: OldDesignator=3V3 NewDesignator=P16
+Change Component Designator: OldDesignator=BAT NewDesignator=P19
+Change Component Designator: OldDesignator=BAT NewDesignator=Pad6
+Change Component Designator: OldDesignator=GND NewDesignator=Pad1
+Change Component Designator: OldDesignator=MCU NewDesignator=P18
+Change Component Designator: OldDesignator=SCREEN NewDesignator=P21
+Change Component Designator: OldDesignator=USB NewDesignator=P20
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=R28-2
+Added Member To Class: ClassName=WatchX_TEST Member=Component Pad6 BAT

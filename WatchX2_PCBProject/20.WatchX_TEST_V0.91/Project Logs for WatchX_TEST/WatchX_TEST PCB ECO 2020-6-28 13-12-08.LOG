@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=BMP180_SDA Pin=P8-1
+Removed Pin From Net: NetName=BMP180_SCL Pin=P8-2
+Removed Pin From Net: NetName=BMP180_SCL Pin=P10-3
+Removed Pin From Net: NetName=BMP180_SDA Pin=P10-6
+Removed Pin From Net: NetName=BMP180_SCL Pin=P12-1
+Removed Pin From Net: NetName=BMP180_SDA Pin=P12-2
+Removed Pin From Net: NetName=BMP180_SDA Pin=Q2-3
+Removed Pin From Net: NetName=BMP180_SCL Pin=Q3-3
+Removed Pin From Net: NetName=BMP180_SCL Pin=R4-2
+Removed Pin From Net: NetName=BMP180_SDA Pin=R12-2
+Removed Pin From Net: NetName=BMP180_SCL Pin=S1-2
+Removed Pin From Net: NetName=BMP180_SDA Pin=S1-3
+Removed Pin From Net: NetName=BMP180_SCL Pin=U6-1
+Removed Pin From Net: NetName=BMP180_SDA Pin=U6-4
+Added Pin To Net: NetName=BSCL Pin=P8-2
+Added Pin To Net: NetName=BSCL Pin=P10-3
+Added Pin To Net: NetName=BSCL Pin=P12-1
+Added Pin To Net: NetName=BSCL Pin=Q3-3
+Added Pin To Net: NetName=BSCL Pin=R4-2
+Added Pin To Net: NetName=BSCL Pin=S1-2
+Added Pin To Net: NetName=BSCL Pin=U6-1
+Added Net: Name=BSCL
+Added Pin To Net: NetName=BSDA Pin=P8-1
+Added Pin To Net: NetName=BSDA Pin=P10-6
+Added Pin To Net: NetName=BSDA Pin=P12-2
+Added Pin To Net: NetName=BSDA Pin=Q2-3
+Added Pin To Net: NetName=BSDA Pin=R12-2
+Added Pin To Net: NetName=BSDA Pin=S1-3
+Added Pin To Net: NetName=BSDA Pin=U6-4
+Added Net: Name=BSDA

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=TFT_SDA Pin=P4-1
+Removed Pin From Net: NetName=TFT_SCL Pin=P4-3
+Removed Pin From Net: NetName=TFT_CS Pin=P4-4
+Removed Pin From Net: NetName=TFT_RES Pin=P4-5
+Removed Pin From Net: NetName=TFT_BLK Pin=P4-6
+Added Pin To Net: NetName=TFT_BLK Pin=P4-1
+Added Pin To Net: NetName=TFT_CS Pin=P4-3
+Added Pin To Net: NetName=TFT_SDA Pin=P4-4
+Added Pin To Net: NetName=TFT_SCL Pin=P4-5
+Added Pin To Net: NetName=TFT_RES Pin=P4-6
+Added Member To Class: ClassName=WatchX_TEST Member=Component R26 4.7K

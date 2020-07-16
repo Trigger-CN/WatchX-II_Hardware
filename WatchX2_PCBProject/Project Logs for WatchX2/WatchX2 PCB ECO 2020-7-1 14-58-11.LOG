@@ -1,0 +1,12 @@
+Added Component: Designator=CR?(CONN RCPT 10POS 0.4MM)
+Added Pin To Net: NetName=3V3 Pin=CR?-1
+Added Pin To Net: NetName=ASCL Pin=CR?-2
+Added Pin To Net: NetName=ASDA Pin=CR?-3
+Added Pin To Net: NetName=PB1 Pin=CR?-5
+Added Pin To Net: NetName=GND Pin=CR?-6
+Added Pin To Net: NetName=GND Pin=CR?-7
+Added Pin To Net: NetName=GND Pin=CR?-9
+Added Pin To Net: NetName=GND Pin=CR?-10
+Added Pin To Net: NetName=TP_EINT Pin=CR?-4
+Added Net: Name=TP_EINT
+Added Member To Class: ClassName=WatchX2 Member=Component CR? CR10P

@@ -1,0 +1,33 @@
+Added Component: Designator=Q5(SOT23)
+Added Component: Designator=U8(SOT23-5)
+Added Component: Designator=U9(SOT23-5)
+Added Component: Designator=U10(QFN16-4MM)
+Added Pin To Net: NetName=BAT_DET_EN Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=BAT Pin=Q5-3
+Added Pin To Net: NetName=VCC Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=NetD2_K Pin=U8-3
+Added Pin To Net: NetName=3V3 Pin=U8-5
+Added Pin To Net: NetName=VCC Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=VCC Pin=U9-3
+Added Pin To Net: NetName=1.8V Pin=U9-5
+Added Pin To Net: NetName=USB_VCC Pin=U10-1
+Added Pin To Net: NetName=NetD7_K Pin=U10-2
+Added Pin To Net: NetName=NetD7_K Pin=U10-3
+Added Pin To Net: NetName=USB_VCC Pin=U10-4
+Added Pin To Net: NetName=USB_VCC Pin=U10-5
+Added Pin To Net: NetName=NetQ6_1 Pin=U10-6
+Added Pin To Net: NetName=GND Pin=U10-7
+Added Pin To Net: NetName=NetC37_2 Pin=U10-8
+Added Pin To Net: NetName=BAT Pin=U10-9
+Added Pin To Net: NetName=NetC34_1 Pin=U10-10
+Added Pin To Net: NetName=GND Pin=U10-11
+Added Pin To Net: NetName=GND Pin=U10-12
+Added Pin To Net: NetName=BAT_CHG Pin=U10-15
+Added Pin To Net: NetName=USB_VCC Pin=U10-16
+Added Member To Class: ClassName=WatchX_TEST Member=Component Q5 MOSFET-P
+Added Member To Class: ClassName=WatchX_TEST Member=Component U8 LP5907-3.3
+Added Member To Class: ClassName=WatchX_TEST Member=Component U9 LP5907-1.8
+Added Member To Class: ClassName=WatchX_TEST Member=Component U10 TP5100

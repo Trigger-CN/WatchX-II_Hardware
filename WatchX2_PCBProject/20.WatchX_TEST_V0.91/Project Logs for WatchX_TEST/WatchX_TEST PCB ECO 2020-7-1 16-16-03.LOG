@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ASDA Pin=P9-2
+Removed Pin From Net: NetName=ASCL Pin=P9-3
+Added Pin To Net: NetName=ASCL Pin=P9-2
+Added Pin To Net: NetName=ASDA Pin=P9-3
