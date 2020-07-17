@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SD_SDD0 Pin=P13-1
+Removed Pin From Net: NetName=SD_SDD1 Pin=P13-2
+Removed Pin From Net: NetName=SD_SDD2 Pin=P13-3
+Removed Pin From Net: NetName=SD_SDD3 Pin=P13-4
+Removed Pin From Net: NetName=SD_CLK Pin=P13-5
+Removed Pin From Net: NetName=SD_CMD Pin=P13-6
+Added Pin To Net: NetName=3V3 Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C5-1
+Added Pin To Net: NetName=SD_SDD1 Pin=P13-1
+Added Pin To Net: NetName=SD_SDD0 Pin=P13-2
+Added Pin To Net: NetName=SD_CMD Pin=P13-3
+Added Pin To Net: NetName=SD_CLK Pin=P13-4
+Added Pin To Net: NetName=SD_SDD3 Pin=P13-5
+Added Pin To Net: NetName=SD_SDD2 Pin=P13-6
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=3V3 Pin=U2-8

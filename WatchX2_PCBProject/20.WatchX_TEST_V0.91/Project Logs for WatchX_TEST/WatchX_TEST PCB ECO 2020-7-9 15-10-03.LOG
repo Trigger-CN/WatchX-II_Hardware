@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=SCREEN_VCC Pin=U4-3
-Added Pin To Net: NetName=SCREEN_VCC Pin=C7-1
-Added Pin To Net: NetName=SCREEN_VCC Pin=U4-9
-Added Pin To Net: NetName=SCREEN_VCC Pin=U4-10
-Added Pin To Net: NetName=SCREEN_VCC Pin=U4-11

@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P6
+Change Component Designator: OldDesignator=R26 NewDesignator=R29
+Added Member To Class: ClassName=WatchX_TEST Member=Component R29 4.7K

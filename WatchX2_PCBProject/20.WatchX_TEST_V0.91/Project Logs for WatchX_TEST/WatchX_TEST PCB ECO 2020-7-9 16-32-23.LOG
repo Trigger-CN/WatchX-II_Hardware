@@ -1,6 +1,0 @@
-Added Component: Designator=P22(HDR1X4)
-Added Pin To Net: NetName=GND Pin=P22-1
-Added Pin To Net: NetName=M1-IN2 Pin=P22-2
-Added Pin To Net: NetName=M1-IN1 Pin=P22-3
-Added Pin To Net: NetName=M1-SLP Pin=P22-4
-Added Member To Class: ClassName=WatchX_TEST Member=Component P22 Header 4

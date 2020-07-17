@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=ASCL Pin=R11-2
+Removed Pin From Net: NetName=AVCC Pin=R47-1
+Removed Pin From Net: NetName=ASDA Pin=R47-2
+Removed Member From Class: ClassName=WatchX_TEST Member=R47
+Added Component: Designator=CR1(CONN RCPT 10POS 0.4MM)
+Added Component: Designator=P1(HDR1X3)
+Added Component: Designator=P15(HDR1X3)
+Added Pin To Net: NetName=3V3 Pin=CR1-1
+Added Pin To Net: NetName=ASCL Pin=CR1-2
+Added Pin To Net: NetName=ASDA Pin=CR1-3
+Added Pin To Net: NetName=TP_EINT Pin=CR1-4
+Added Pin To Net: NetName=PB1 Pin=CR1-5
+Added Pin To Net: NetName=GND Pin=CR1-6
+Added Pin To Net: NetName=GND Pin=CR1-7
+Added Pin To Net: NetName=GND Pin=CR1-9
+Added Pin To Net: NetName=GND Pin=CR1-10
+Added Pin To Net: NetName=PA6 Pin=P1-1
+Added Pin To Net: NetName=TFT_SDA Pin=P1-2
+Added Pin To Net: NetName=PA7 Pin=P1-3
+Added Pin To Net: NetName=PA4 Pin=P4-2
+Added Pin To Net: NetName=PB1 Pin=P4-4
+Added Pin To Net: NetName=PA5 Pin=P4-5
+Added Pin To Net: NetName=PA3 Pin=P4-7
+Added Pin To Net: NetName=PB1 Pin=P9-3
+Added Pin To Net: NetName=PA6 Pin=P15-1
+Added Pin To Net: NetName=TFT_SDA1 Pin=P15-2
+Added Pin To Net: NetName=PA7 Pin=P15-3
+Added Pin To Net: NetName=ASDA Pin=R11-2
+Added Pin To Net: NetName=PA3 Pin=R44-1
+Added Pin To Net: NetName=PA5 Pin=U4-6
+Added Pin To Net: NetName=PA4 Pin=U4-7
+Added Pin To Net: NetName=PB1 Pin=U4-8
+Added Member To Class: ClassName=WatchX_TEST Member=Component CR1 CR10P
+Added Member To Class: ClassName=WatchX_TEST Member=Component P1 Header 3
+Added Member To Class: ClassName=WatchX_TEST Member=Component P15 Header 3
