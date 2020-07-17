@@ -1,0 +1,65 @@
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=CR1-6
+Added Pin To Net: NetName=GND Pin=CR1-7
+Added Pin To Net: NetName=GND Pin=CR1-9
+Added Pin To Net: NetName=GND Pin=CR1-10
+Added Pin To Net: NetName=GND Pin=P4-8
+Added Pin To Net: NetName=GND Pin=P9-1
+Added Pin To Net: NetName=GND Pin=Q8-3
+Added Pin To Net: NetName=GND Pin=R45-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-12
+Added Pin To Net: NetName=GND Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U4-16
+Added Pin To Net: NetName=GND Pin=U4-17
+Added Net: Name=GND
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R44-2
+Added Pin To Net: NetName=NetQ8_1 Pin=R45-2
+Added Net: Name=NetQ8_1
+Added Pin To Net: NetName=NetQ8_2 Pin=Q8-2
+Added Pin To Net: NetName=NetQ8_2 Pin=R43-1
+Added Net: Name=NetQ8_2
+Added Pin To Net: NetName=SCREEN_VCC Pin=C7-1
+Added Pin To Net: NetName=SCREEN_VCC Pin=CR1-1
+Added Pin To Net: NetName=SCREEN_VCC Pin=P4-1
+Added Pin To Net: NetName=SCREEN_VCC Pin=U4-9
+Added Pin To Net: NetName=SCREEN_VCC Pin=U4-10
+Added Pin To Net: NetName=SCREEN_VCC Pin=U4-11
+Added Pin To Net: NetName=SCREEN_VCC Pin=U4-14
+Added Pin To Net: NetName=SCREEN_VCC Pin=U4-15
+Added Net: Name=SCREEN_VCC
+Added Pin To Net: NetName=TFT_BLK Pin=P4-7
+Added Pin To Net: NetName=TFT_BLK Pin=R44-1
+Added Net: Name=TFT_BLK
+Added Pin To Net: NetName=TFT_CS Pin=P4-2
+Added Pin To Net: NetName=TFT_CS Pin=U4-7
+Added Net: Name=TFT_CS
+Added Pin To Net: NetName=TFT_LEDK Pin=R43-2
+Added Pin To Net: NetName=TFT_LEDK Pin=U4-1
+Added Net: Name=TFT_LEDK
+Added Pin To Net: NetName=TFT_RES Pin=P4-4
+Added Pin To Net: NetName=TFT_RES Pin=U4-8
+Added Net: Name=TFT_RES
+Added Pin To Net: NetName=TFT_SCL Pin=P4-5
+Added Pin To Net: NetName=TFT_SCL Pin=U4-6
+Added Net: Name=TFT_SCL
+Added Pin To Net: NetName=TFT_SDA1 Pin=P4-3
+Added Pin To Net: NetName=TFT_SDA1 Pin=U4-5
+Added Net: Name=TFT_SDA1
+Added Pin To Net: NetName=TFT_SDA Pin=P4-6
+Added Pin To Net: NetName=TFT_SDA Pin=U4-4
+Added Net: Name=TFT_SDA
+Added Pin To Net: NetName=TP_EINT Pin=CR1-4
+Added Pin To Net: NetName=TP_EINT Pin=P9-4
+Added Net: Name=TP_EINT
+Added Pin To Net: NetName=TP_RES Pin=CR1-5
+Added Pin To Net: NetName=TP_RES Pin=P9-5
+Added Net: Name=TP_RES
+Added Pin To Net: NetName=TP_SCL Pin=CR1-2
+Added Pin To Net: NetName=TP_SCL Pin=P9-2
+Added Net: Name=TP_SCL
+Added Pin To Net: NetName=TP_SDA Pin=CR1-3
+Added Pin To Net: NetName=TP_SDA Pin=P9-3
+Added Net: Name=TP_SDA
+Added Class: Name=ScreenAdapterBoard
