@@ -1,0 +1,86 @@
+
+	RST=1;  
+	Delay(200);
+	
+	RST=0;
+	Delay(800);
+
+	RST=1;
+	Delay(800);
+	  
+//---------------------------------------------------------------------------------------------------//
+WriteComm(0x11);
+Delay(120); //Delay 120ms
+//--------------------------------------Display Setting------------------------------------------//
+WriteComm(0x36);
+WriteData(0x00);
+WriteComm(0x3a);
+WriteData(0x55);
+WriteComm(0x21);
+WriteComm(0x2a);
+WriteData(0x00);
+WriteData(0x00);
+WriteData(0x00);
+WriteData(0xef);
+WriteComm(0x2b);
+WriteData(0x00);
+WriteData(0x00);
+WriteData(0x00);
+WriteData(0xef);
+//--------------------------------ST7789V Frame rate setting----------------------------------//
+WriteComm(0xb2);
+WriteData(0x0c);
+WriteData(0x0c);
+WriteData(0x00);
+WriteData(0x33);
+WriteData(0x33);
+WriteComm(0xb7);
+WriteData(0x35);
+//---------------------------------ST7789V Power setting--------------------------------------//
+WriteComm(0xbb);
+WriteData(0x1f);
+WriteComm(0xc0);
+WriteData(0x2c);
+WriteComm(0xc2);
+WriteData(0x01);
+WriteComm(0xc3);
+WriteData(0x12);
+WriteComm(0xc4);
+WriteData(0x20);
+WriteComm(0xc6);
+WriteData(0x0f);
+WriteComm(0xd0);
+WriteData(0xa4);
+WriteData(0xa1);
+//--------------------------------ST7789V gamma setting--------------------------------------//
+WriteComm(0xe0);
+WriteData(0xd0);
+WriteData(0x08);
+WriteData(0x11);
+WriteData(0x08);
+WriteData(0x0c);
+WriteData(0x15);
+WriteData(0x39);
+WriteData(0x33);
+WriteData(0x50);
+WriteData(0x36);
+WriteData(0x13);
+WriteData(0x14);
+WriteData(0x29);
+WriteData(0x2d);
+WriteComm(0xe1);
+WriteData(0xd0);
+WriteData(0x08);
+WriteData(0x10);
+WriteData(0x08);
+WriteData(0x06);
+WriteData(0x06);
+WriteData(0x39);
+WriteData(0x44);
+WriteData(0x51);
+WriteData(0x0b);
+WriteData(0x16);
+WriteData(0x14);
+WriteData(0x2f);
+WriteData(0x31);
+WriteComm(0x29);
