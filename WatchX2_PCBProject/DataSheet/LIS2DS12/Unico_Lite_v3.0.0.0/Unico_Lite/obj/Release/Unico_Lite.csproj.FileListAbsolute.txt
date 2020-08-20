@@ -1,0 +1,10 @@
+D:\PCB\WatchX2\WatchX2\WatchX2_PCBProject\DataSheet\LIS2DS12\Unico_Lite_v3.0.0.0\Unico_Lite\bin\Release\Unico_Lite.exe.config
+D:\PCB\WatchX2\WatchX2\WatchX2_PCBProject\DataSheet\LIS2DS12\Unico_Lite_v3.0.0.0\Unico_Lite\bin\Release\Unico_Lite.exe
+D:\PCB\WatchX2\WatchX2\WatchX2_PCBProject\DataSheet\LIS2DS12\Unico_Lite_v3.0.0.0\Unico_Lite\bin\Release\Unico_Lite.pdb
+D:\PCB\WatchX2\WatchX2\WatchX2_PCBProject\DataSheet\LIS2DS12\Unico_Lite_v3.0.0.0\Unico_Lite\obj\Release\Unico_Lite.csprojAssemblyReference.cache
+D:\PCB\WatchX2\WatchX2\WatchX2_PCBProject\DataSheet\LIS2DS12\Unico_Lite_v3.0.0.0\Unico_Lite\obj\Release\Unico_Lite.Form1.resources
+D:\PCB\WatchX2\WatchX2\WatchX2_PCBProject\DataSheet\LIS2DS12\Unico_Lite_v3.0.0.0\Unico_Lite\obj\Release\Unico_Lite.Properties.Resources.resources
+D:\PCB\WatchX2\WatchX2\WatchX2_PCBProject\DataSheet\LIS2DS12\Unico_Lite_v3.0.0.0\Unico_Lite\obj\Release\Unico_Lite.csproj.GenerateResource.cache
+D:\PCB\WatchX2\WatchX2\WatchX2_PCBProject\DataSheet\LIS2DS12\Unico_Lite_v3.0.0.0\Unico_Lite\obj\Release\Unico_Lite.csproj.CoreCompileInputs.cache
+D:\PCB\WatchX2\WatchX2\WatchX2_PCBProject\DataSheet\LIS2DS12\Unico_Lite_v3.0.0.0\Unico_Lite\obj\Release\Unico_Lite.exe
+D:\PCB\WatchX2\WatchX2\WatchX2_PCBProject\DataSheet\LIS2DS12\Unico_Lite_v3.0.0.0\Unico_Lite\obj\Release\Unico_Lite.pdb

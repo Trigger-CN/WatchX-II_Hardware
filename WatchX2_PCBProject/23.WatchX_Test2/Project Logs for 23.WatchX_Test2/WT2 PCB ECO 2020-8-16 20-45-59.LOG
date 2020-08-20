@@ -1,0 +1,6 @@
+Added Component: Designator=M1+(Pad_B)
+Added Component: Designator=M1-(Pad_B)
+Added Pin To Net: NetName=NetM1+_1 Pin=M1+-1
+Added Pin To Net: NetName=NetM1-_1 Pin=M1--1
+Added Member To Class: ClassName=WT2_Sensors Member=Component M1+ M1-OUT1
+Added Member To Class: ClassName=WT2_Sensors Member=Component M1- M1-OUT2

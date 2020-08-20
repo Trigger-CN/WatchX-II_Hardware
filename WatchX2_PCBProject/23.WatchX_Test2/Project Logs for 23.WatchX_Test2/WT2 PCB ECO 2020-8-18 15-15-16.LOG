@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=1.8V Pin=C20-1
+Removed Pin From Net: NetName=1.8V Pin=S1-11
+Removed Pin From Net: NetName=1.8V Pin=U6-9
+Removed Pin From Net: NetName=1.8V Pin=U6-10
+Added Component: Designator=P28(HDR1X2)
+Added Component: Designator=P29(HDR1X2)
+Added Pin To Net: NetName=1.8V Pin=P28-2
+Added Pin To Net: NetName=1.8V Pin=P29-2
+Added Pin To Net: NetName=HRS_VCC Pin=C20-1
+Added Pin To Net: NetName=HRS_VCC Pin=P29-1
+Added Pin To Net: NetName=HRS_VCC Pin=S1-11
+Added Net: Name=HRS_VCC
+Added Pin To Net: NetName=LIS_VCC Pin=P28-1
+Added Pin To Net: NetName=LIS_VCC Pin=U6-9
+Added Pin To Net: NetName=LIS_VCC Pin=U6-10
+Added Net: Name=LIS_VCC
+Added Member To Class: ClassName=WT2_Sensors Member=Component P28 Header 2
+Added Member To Class: ClassName=WT2_Sensors Member=Component P29 Header 2
