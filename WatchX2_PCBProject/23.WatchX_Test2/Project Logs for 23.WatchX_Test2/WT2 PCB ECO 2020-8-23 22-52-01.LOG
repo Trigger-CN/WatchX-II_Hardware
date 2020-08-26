@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TFT_IM Pin=R46-2
+Removed Member From Class: ClassName=WT2_Screen Member=R46
+Added Component: Designator=R7(µç×è_R0603)
+Added Component: Designator=R12(µç×è_R0603)
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=TFT_IM Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=LIS_CS Pin=R12-2
+Added Member To Class: ClassName=WT2_Screen Member=Component R7 10K
+Added Member To Class: ClassName=WT2_Sensors Member=Component R12 4.7K
