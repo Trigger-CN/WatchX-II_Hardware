@@ -1,7 +1,5 @@
 # WatchX2
 
-Open-source smart watch, based on LittlevGL Embedded GUI Library
+基于LVGL的开源智能手表
 
-## The second generation coming soon.
-
-## It is currently in the early testing phase of the project
+正在施工。。。。
