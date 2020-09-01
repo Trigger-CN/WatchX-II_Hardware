@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=3V3 Pin=CR1-1
-Removed Pin From Net: NetName=ASCL Pin=CR1-2
-Removed Pin From Net: NetName=ASDA Pin=CR1-3
-Removed Pin From Net: NetName=PB1 Pin=CR1-5
-Removed Pin From Net: NetName=GND Pin=CR1-6
-Removed Pin From Net: NetName=GND Pin=CR1-7
-Removed Pin From Net: NetName=GND Pin=CR1-9
-Removed Pin From Net: NetName=GND Pin=CR1-10
-Removed Member From Class: ClassName=WatchX2 Member=CR1
