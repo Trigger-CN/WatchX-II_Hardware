@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=WT2_Ports Member=U7
+Change Component Footprint: Designator=R8 Old Footprint=电阻_R0603 New Footprint=电阻_R0402
+Change Component Footprint: Designator=R10 Old Footprint=电阻_R0603 New Footprint=电阻_R0402
+Added Member To Class: ClassName=WT2_Ports Member=Component U3 CH340E

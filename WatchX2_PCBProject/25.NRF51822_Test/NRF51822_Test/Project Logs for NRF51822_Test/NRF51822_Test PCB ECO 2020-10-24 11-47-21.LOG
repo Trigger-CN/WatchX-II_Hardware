@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=U1-49
+Added Component: Designator=E1(AN9520)
+Added Pin To Net: NetName=NetC10_1 Pin=E1-1
+Added Member To Class: ClassName=NRF51822_Test Member=Component E1 Antenna

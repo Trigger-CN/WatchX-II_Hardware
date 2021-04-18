@@ -1,0 +1,252 @@
+	delayms(120);                
+
+	write_cmd(0x11);     
+
+	delayms(120);                
+
+        write_cmd(0xFE);			 
+	write_cmd(0xEF); 
+
+	write_cmd(0xEB);	
+	write_dat(0x14); 
+
+	write_cmd(0x84);			
+	write_dat(0x40); 
+
+	write_cmd(0x85);			
+	write_dat(0xFF); 
+
+	write_cmd(0x86);			
+	write_dat(0xFF); 
+
+	write_cmd(0x87);			
+	write_dat(0xFF);
+	write_cmd(0x8E);			
+	write_dat(0xFF); 
+
+	write_cmd(0x8F);			
+	write_dat(0xFF); 
+
+	write_cmd(0x88);			
+	write_dat(0x0A);
+
+	write_cmd(0x89);			
+	write_dat(0x21); //2data: 0x23    1data: 0x21
+
+	write_cmd(0x8A);			
+	write_dat(0x00); 
+
+	write_cmd(0x8B);			
+	write_dat(0x80); 
+
+	write_cmd(0x8C);			
+	write_dat(0x01); 
+
+	write_cmd(0x8D);			
+	write_dat(0x01); 
+
+  write_cmd(0xB6);//FS			
+  write_dat(0x00); //FS
+  write_dat(0x60); //FS
+
+	write_cmd(0x36);			
+	write_dat(0x48);//88
+
+	write_cmd(0x3A);			
+	write_dat(0x05); 
+
+
+	write_cmd(0x90);			
+	write_dat(0x08);
+	write_dat(0x08);
+	write_dat(0x08);
+	write_dat(0x08); 
+
+	write_cmd(0xBD);			
+	write_dat(0x06);
+	
+	write_cmd(0xBC);			
+	write_dat(0x00);	
+
+	write_cmd(0xFF);			
+	write_dat(0x60);
+	write_dat(0x01);
+	write_dat(0x04);
+
+	write_cmd(0xC3);			
+	write_dat(0x13);
+	write_cmd(0xC4);			
+	write_dat(0x13);
+
+	write_cmd(0xC9);			
+	write_dat(0x22);
+
+	write_cmd(0xBE);			
+	write_dat(0x11); 
+
+	write_cmd(0xE1);			
+	write_dat(0x10);
+	write_dat(0x0E);
+
+	write_cmd(0xDF);			
+	write_dat(0x21);
+	write_dat(0x0c);
+	write_dat(0x02);
+
+	write_cmd(0xF0);   
+  write_dat(0x45);
+  write_dat(0x09);
+  write_dat(0x08);
+  write_dat(0x08);
+  write_dat(0x26);
+ 	write_dat(0x2A);
+
+ 	write_cmd(0xF1);    
+ 	write_dat(0x43);
+ 	write_dat(0x70);
+ 	write_dat(0x72);
+ 	write_dat(0x36);
+ 	write_dat(0x37);  
+ 	write_dat(0x6F);
+
+
+ 	write_cmd(0xF2);   
+ 	write_dat(0x45);
+ 	write_dat(0x09);
+ 	write_dat(0x08);
+ 	write_dat(0x08);
+ 	write_dat(0x26);
+ 	write_dat(0x2A);
+
+ 	write_cmd(0xF3);   
+ 	write_dat(0x43);
+ 	write_dat(0x70);
+ 	write_dat(0x72);
+ 	write_dat(0x36);
+ 	write_dat(0x37); 
+ 	write_dat(0x6F);
+
+	write_cmd(0xED);	
+	write_dat(0x1B); 
+	write_dat(0x0B); 
+
+	write_cmd(0xAE);			
+	write_dat(0x77);
+	
+	write_cmd(0xCD);			
+	write_dat(0x63);		
+
+
+	write_cmd(0x70);			
+	write_dat(0x07);
+	write_dat(0x07);
+	write_dat(0x04);
+	write_dat(0x0E); 
+	write_dat(0x0F); 
+	write_dat(0x09);
+	write_dat(0x07);
+	write_dat(0x08);
+	write_dat(0x03);
+
+	write_cmd(0xE8);			
+	write_dat(0x34);
+
+	write_cmd(0x62);			
+	write_dat(0x18);
+	write_dat(0x0D);
+	write_dat(0x71);
+	write_dat(0xED);
+	write_dat(0x70); 
+	write_dat(0x70);
+	write_dat(0x18);
+	write_dat(0x0F);
+	write_dat(0x71);
+	write_dat(0xEF);
+	write_dat(0x70); 
+	write_dat(0x70);
+
+	write_cmd(0x63);			
+	write_dat(0x18);
+	write_dat(0x11);
+	write_dat(0x71);
+	write_dat(0xF1);
+	write_dat(0x70); 
+	write_dat(0x70);
+	write_dat(0x18);
+	write_dat(0x13);
+	write_dat(0x71);
+	write_dat(0xF3);
+	write_dat(0x70); 
+	write_dat(0x70);
+
+	write_cmd(0x64);			
+	write_dat(0x28);
+	write_dat(0x29);
+	write_dat(0xF1);
+	write_dat(0x01);
+	write_dat(0xF1);
+	write_dat(0x00);
+	write_dat(0x07);
+       
+  write_cmd(0x66); //FS
+	write_dat(0x3C);
+	write_dat(0x00);
+	write_dat(0x98);
+	write_dat(0x10);
+	write_dat(0x32);
+	write_dat(0x45);
+	write_dat(0x01);
+	write_dat(0x00);
+	write_dat(0x00);
+	write_dat(0x00);
+
+	write_cmd(0x67);
+	write_dat(0x00);
+	write_dat(0x3C);
+	write_dat(0x00);
+	write_dat(0x00);
+	write_dat(0x00);
+	write_dat(0x10);
+	write_dat(0x54);
+	write_dat(0x67);
+	write_dat(0x45);
+	write_dat(0xcd);//FS
+             
+
+	write_cmd(0x74);			
+	write_dat(0x10);	
+	write_dat(0x85);	
+	write_dat(0x80);
+	write_dat(0x00); 
+	write_dat(0x00); 
+	write_dat(0x4E);
+	write_dat(0x00);					
+	
+        write_cmd(0x98);			
+	write_dat(0x3e);
+	write_dat(0x07);
+
+
+
+	write_cmd(0x35);	
+        write_dat(0x00); 
+	write_cmd(0x21);
+	delayms(120);
+	
+
+        
+
+
+
+//	#if defined(SPI_2LANE)
+//	write_cmd(0xE9);     
+//	write_dat(0x08); 	//0x00-->1data lance
+//	#endif
+		
+write_cmd(0x11);
+delayms(120);
+write_cmd(0x29);
+delayms(120);
+write_cmd(0x2C);    	
+
+}

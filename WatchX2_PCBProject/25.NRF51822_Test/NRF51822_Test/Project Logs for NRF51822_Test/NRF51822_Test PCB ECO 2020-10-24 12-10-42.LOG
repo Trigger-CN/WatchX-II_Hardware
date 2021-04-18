@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=U1-49
+Added Component: Designator=C14(µÁ»›_C0402)
+Added Component: Designator=C15(µÁ»›_C0402)
+Added Component: Designator=P4(HDR1X2)
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=VCC Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=VCC Pin=C15-2
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=VCC Pin=P4-2
+Added Member To Class: ClassName=NRF51822_Test Member=Component C14 104
+Added Member To Class: ClassName=NRF51822_Test Member=Component C15 104
+Added Member To Class: ClassName=NRF51822_Test Member=Component P4 Header 2

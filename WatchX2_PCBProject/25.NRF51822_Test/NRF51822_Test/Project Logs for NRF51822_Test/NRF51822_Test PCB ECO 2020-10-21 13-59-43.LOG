@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=L1 Old Footprint=变压器电感_10*8.5*1.4 New Footprint=变压器电感_L0603
+Change Component Footprint: Designator=L2 Old Footprint=变压器电感_10*8.5*1.4 New Footprint=变压器电感_L0603
+Change Component Footprint: Designator=L3 Old Footprint=变压器电感_10*8.5*1.4 New Footprint=变压器电感_L0603
+Change Component Comment : Designator=L1 Old Comment=2.2uH New Comment=3.3nH
+Change Component Comment : Designator=L2 Old Comment=2.2uH New Comment=4.7nH
+Change Component Comment : Designator=L3 Old Comment=2.2uH New Comment=10nH
