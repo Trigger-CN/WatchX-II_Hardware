@@ -4,9 +4,13 @@
 >[软件设计](https://github.com/FASTSHIFT/WatchX-II) by FASTSHIFT
 
 主控：AT32F403ACCU7
+
 屏幕：240x240 IPS 可触摸方屏、圆屏（方屏接口为8位并口，圆屏接口为4线SPI）
+
 IMU：LIS2DS12
+
 心率计：MAX30102
+
 SDNAND：CSNP4GCR01
 
 正在施工。。。。
