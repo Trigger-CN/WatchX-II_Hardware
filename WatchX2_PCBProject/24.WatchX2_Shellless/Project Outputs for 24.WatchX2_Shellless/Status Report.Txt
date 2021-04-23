@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [24.WatchX2_Shellless.PrjPcb]
+   Generated File[WT2_SL.BOM]
+   Generated File[WT2_SL.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 9:36:04 On 2021/4/22

@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [WatchX2_RoundScreen.PrjPcb]
+   Generated File[WatchX2_RoundScreen.BOM]
+   Generated File[WatchX2_RoundScreen.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 7:55:49 On 2021/4/22

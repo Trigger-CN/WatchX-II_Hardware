@@ -1,6 +1,0 @@
-Added Component: Designator=S3(KEY_6*6mm)
-Added Pin To Net: NetName=BAT Pin=S3-1
-Added Pin To Net: NetName=BAT Pin=S3-1
-Added Pin To Net: NetName=NetD2_A Pin=S3-2
-Added Pin To Net: NetName=NetD2_A Pin=S3-2
-Added Member To Class: ClassName=WT2_Power Member=Component S3 SW-PB

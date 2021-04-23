@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=BMP180_SCL Pin=P9-2
-Removed Pin From Net: NetName=BMP180_SDA Pin=P9-3
-Removed Pin From Net: NetName=TP_EINT Pin=P9-4
-Removed Pin From Net: NetName=TP_RES Pin=P9-5
-Added Pin To Net: NetName=BMP180_SDA Pin=P9-2
-Added Pin To Net: NetName=BMP180_SCL Pin=P9-3
-Added Pin To Net: NetName=TP_RES Pin=P9-4
-Added Pin To Net: NetName=TP_EINT Pin=P9-5
-Added Member To Class: ClassName=WatchX_TEST Member=Component R26 4.7K

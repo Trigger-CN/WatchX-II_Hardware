@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=PB1 Pin=P9-3
-Removed Pin From Net: NetName=ASCL Pin=P9-4
-Removed Pin From Net: NetName=TP_EINT Pin=P9-5
-Added Pin To Net: NetName=ASCL Pin=P9-3
-Added Pin To Net: NetName=TP_EINT Pin=P9-4
-Added Pin To Net: NetName=PB1 Pin=P9-5

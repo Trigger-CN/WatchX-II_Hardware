@@ -1,8 +1,0 @@
-Added Component: Designator=R13(µç×è_R0603)
-Added Pin To Net: NetName=3V3 Pin=R12-1
-Added Pin To Net: NetName=GND Pin=R13-1
-Added Pin To Net: NetName=NetR13_2 Pin=R13-2
-Added Pin To Net: NetName=NetR13_2 Pin=U4-19
-Added Net: Name=NetR13_2
-Added Member To Class: ClassName=WT2_Screen Member=Component R13 4.7K
-Added Member To Class: ClassName=WT2_Ports Member=Component R46 10K

@@ -1,6 +1,0 @@
-Added Component: Designator=S2(KEY_6*6mm)
-Added Pin To Net: NetName=GND Pin=S2-1
-Added Pin To Net: NetName=GND Pin=S2-1
-Added Pin To Net: NetName=RST Pin=S2-2
-Added Pin To Net: NetName=RST Pin=S2-2
-Added Member To Class: ClassName=WT2_MCU Member=Component S2 SW-PB

@@ -1,3 +1,0 @@
-Removed Member From Class: ClassName=WT2_Sensors Member=U3
-Change Component Designator: OldDesignator=U3 NewDesignator=U7
-Added Member To Class: ClassName=WT2_Sensors Member=Component U7 DRV883x

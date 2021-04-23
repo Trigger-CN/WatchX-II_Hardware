@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=FLASH_D1 Pin=P13-3
-Removed Pin From Net: NetName=FLASH_WP Pin=P13-5
-Added Pin To Net: NetName=FLASH_WP Pin=P13-3
-Added Pin To Net: NetName=FLASH_D1 Pin=P13-5

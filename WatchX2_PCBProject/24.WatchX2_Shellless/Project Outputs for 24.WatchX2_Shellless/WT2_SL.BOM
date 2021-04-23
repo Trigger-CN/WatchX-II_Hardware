@@ -1,0 +1,51 @@
+Bill of Material for 
+On 2021/4/22 at 9:36:04
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.1uF               电容_C0402         2    C23, C24                                          
+ 100R                电阻_R0402         2    R3, R8                                            
+ 103                 电容_C0402         1    C26                                               
+ 104                 电容_C0402         7    C1, C10, C12, C13, C15, C21                       
+                                           C25
+ 105                 电容_C0402         5    C14, C18, C19, C20, C22                           
+ 106                 电容_C0603         2    C16, C17                                          
+ 10K                 电阻_R0402        11    R1, R7, R10, R11, R22, R25                        
+                                           R30, R31, R32, R33, R34
+ 10R                 电阻_R0402         1    R20                                               
+ 1N4007              二极管_SOD-323      2    D3, D5                                            
+ 1N4148              二极管_SOD-323      4    D6, D7, D8, D9                                    
+ 1N5819              二极管_SOD-323      2    D1, D2                                            
+ 1uF                 电容_C0402         4    C4, C5, C6, C7                                    
+ 20k                 电阻_R0402         3    R12, R13, R16                                     
+ 22pf                电容_C0402         2    C2, C3                                            
+ 2K                  电阻_R0402         1    R15                                               
+ 32.768K             晶振_3215          1    Y1                                                
+ 4.7k                电阻_R0402         9    R2, R6, R19, R23, R24, R26                        
+                                           R27, R28, R29
+ 4.7UF               电容_C0805         2    C8, C9                                            
+ 40k                 电阻_R0402         1    R18                                               
+ 470R                电阻_R0402         1    R17                                               
+ AO3400              MOS_SOT-23       1    Q4                                                
+ AON6512             SOT-23           1    Q5                                                
+ AT32F403CGU6        AT主控_QFN48(6X6)    1    U1                                                
+ BAT                 Pad_A            1    Pad2                                              
+ CH340E              MSOP10           1    U2                                                
+ CR10P               CONN RCPT 10POS 0.4MM    1    CR1                          板对板连接器               
+ DRV883x             WSON-8_2*2       1    U8                           DRV883x              
+ GND                 Pad_A            1    Pad4                                              
+ LIS2DS12            LGA-12_2*2mm     1    U7                           运动传感器                
+ LOGO                LOGO REV L BS    1    L1                                                
+ LP5907-1.8          SOT23-5          1    U4                           LDO                  
+ LP5907-3.3          SOT23-5          1    U5                           LDO                  
+ MAX30102            MAX30102         1    S2                           血氧浓度传感器              
+ MCP73831            SOT23-5          1    U3                           线性充电管理控制器            
+ MOSFET-P            SOT23            1    Q3                           P-Channel MOSFET     
+ Motor1              Pad_A            1    Pad7                                              
+ Motor2              Pad_A            1    Pad8                                              
+ red                 LED_0603         1    D4                                                
+ SD                  LGA-8_6*8mm2     1    U9                                                
+ SI2302              MOS_SOT-23       2    Q1, Q2                                            
+ SW-PB               KEY-TE26EA       1    S1                           按键                   
+ TFT                 CONN-SMD_DF37NC-24DS-0.4V(51)    1    U6                                                
+ Type-C USB          Type-C_16P       1    P1                                                

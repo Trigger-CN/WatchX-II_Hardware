@@ -1,0 +1,56 @@
+Bill of Material for 
+On 2021/4/22 at 7:55:49
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.1uF               电容_C0402         2    C24, C25                                          
+ 1.5uH               变压器电感_0420       1    L2                                                
+ 100k                电阻_R0402         1    R17                                               
+ 100R                电阻_R0402         2    R4, R5                                            
+ 103                 电容_C0402         1    C27                                               
+ 104                 电容_C0402         7    C1, C10, C11, C12, C20, C22                       
+                                           C26
+ 105                 电容_C0402         6    C13, C16, C17, C18, C19, C23                      
+ 105                 电容_C0603         1    C21                                               
+ 106                 电容_C0603         1    C15                                               
+ 106                 电容_C0805         1    C14                                               
+ 10K                 电阻_R0402        13    R1, R3, R6, R7, R15, R20, R21                      
+                                           R22, R27, R28, R29, R30, R31
+ 10R                 电阻_R0402         1    R19                                               
+ 14M010              OK-14F010 10PIN    1    U?                           奇亚板对板连接器             
+ 150K                电阻_R0402         1    R18                                               
+ 1N4007              二极管_SOD-323      2    D3, D4                                            
+ 1N4148              二极管_SOD-323      4    D6, D7, D8, D9                                    
+ 1N5819              二极管_SOD-323      2    D1, D2                                            
+ 1uF                 电容_C0402         4    C4, C5, C6, C7                                    
+ 20k                 电阻_R0402         3    R8, R9, R14                                       
+ 22pf                电容_C0402         2    C2, C3                                            
+ 2K                  电阻_R0402         1    R10                                               
+ 32.768K             晶振_3215          1    Y1                                                
+ 4.7K                电阻_R0402         6    R2, R13, R23, R24, R25, R26                       
+ 4.7UF               电容_C0805         2    C8, C9                                            
+ 40k                 电阻_R0402         1    R12                                               
+ 470K                电阻_R0402         1    R16                                               
+ 470R                电阻_R0402         1    R11                                               
+ AO3400              MOS_SOT-23       1    Q5                                                
+ AON6512             SOT-23           1    Q4                                                
+ AT32F403CGU6        AT主控_QFN48(6X6)    1    U1                                                
+ BAT                 Pad_A            1    Pad1                                              
+ CH340E              MSOP10           1    U2                                                
+ DRV883x             WSON-8_2*2       1    U8                           DRV883x              
+ GND                 Pad_A            1    Pad2                                              
+ LIS2DS12            LGA-12_2*2mm     1    U7                           运动传感器                
+ LOGO                LOGO REV L BS    1    L1                                                
+ LP5907-1.8          SOT23-5          1    U4                           LDO                  
+ MAX30102            MAX30102         1    S2                           血氧浓度传感器              
+ MCP73831            SOT23-5          1    U3                           线性充电管理控制器            
+ MOSFET-P            SOT23            1    Q3                           P-Channel MOSFET     
+ Motor1              Pad_A            1    Pad3                                              
+ Motor2              Pad_A            1    Pad4                                              
+ red                 LED_0603         1    D5                                                
+ SD                  LGA-8_6*8mm2     1    U9                                                
+ SI2302              MOS_SOT-23       2    Q1, Q2                                            
+ SW-PB               KEY-TE26EA       1    S1                           按键                   
+ TFT                 FPC-0.30mm-15P    1    U6                           IPS电容式触摸屏            
+ TPS63070            VQFN-15-HR       1    U5                           降压-升压转换器             
+ Type-C USB          Type-C_16P       1    P1                                                
