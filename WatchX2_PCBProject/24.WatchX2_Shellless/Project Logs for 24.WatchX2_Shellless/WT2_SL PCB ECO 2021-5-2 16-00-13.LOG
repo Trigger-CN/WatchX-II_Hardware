@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetD8_K Pin=Q5-1
+Removed Pin From Net: NetName=NetD7_A Pin=Q5-2
+Removed Pin From Net: NetName=GND Pin=Q5-3
+Removed Pin From Net: NetName=BAT_OUT Pin=S1-1
+Removed Pin From Net: NetName=BAT_OUT Pin=S1-1
+Removed Member From Class: ClassName=WT2_Power Member=Q5
+Removed Member From Class: ClassName=WT2_Power Member=U2
+Added Component: Designator=Q4(MOS_SOT-23)
+Added Pin To Net: NetName=NetD8_K Pin=Q4-1
+Added Pin To Net: NetName=NetD7_A Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Member To Class: ClassName=WT2_Power Member=Component Q4 SI2302
+Added Member To Class: ClassName=WT2_Power Member=Component U3 MCP73831
