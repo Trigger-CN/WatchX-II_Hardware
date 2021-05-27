@@ -20,3 +20,9 @@ SDNAND：CSNP4GCR01
 
 24.WatchX2_Shellless 此为240x240方屏的正式板
 ![20210418142456](https://github.com/Trigger-CN/WatchX-II_Hardware/blob/master/images/20210418142456.png)
+
+手表无壳展示
+![IMG_20210518_153651](https://github.com/Trigger-CN/WatchX-II_Hardware/blob/master/images/IMG_20210518_153651.jpg)
+
+手表带壳展示
+![IMG_20210527_110259](https://github.com/Trigger-CN/WatchX-II_Hardware/blob/master/images/IMG_20210527_110259.jpg)
