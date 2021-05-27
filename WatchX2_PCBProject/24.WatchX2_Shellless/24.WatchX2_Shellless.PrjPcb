@@ -158,14 +158,10 @@ GenerateClassCluster=0
 DocumentUniqueId=EFSTFEHR
 
 [GeneratedDocument1]
-DocumentPath=
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for 24.WatchX2_Shellless\WT2_SL.BOM
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for 24.WatchX2_Shellless\WT2_SL.CSV
 DItemRevisionGUID=
 
